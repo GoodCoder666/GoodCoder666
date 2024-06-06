@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Stanley (Competive programmer & Python hobbyist).
+I'm Stanley, a competive programmer and Python hobbyist.
 
 | <a href="https://github.com/GoodCoder666"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GoodCoder666&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="github stats" /></a> | <a href="https://github.com/GoodCoder666"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodCoder666&layout=compact&langs_count=6&exclude_repo=GoodCoder666.github.io&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -37,7 +37,7 @@ I'm Stanley (Competive programmer & Python hobbyist).
 Favourite Python libraries:
 - GUI: `PySide6`, `pygame`, `pgzero`
 - Web Scraping: `urllib`, `requests`, `selenium`
-- Deep Learning: `PyTorch`, `TensorFlow`
+- Deep Learning: `PyTorch`
 - Data Analysis: `numpy`, `pandas`
 
 ## &#x270d; Blog & Writing
