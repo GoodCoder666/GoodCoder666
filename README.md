@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Stanley, a competive programmer and Python hobbyist.
+I'm Stanley, a competitive programmer and Python hobbyist.
 
 | <a href="https://github.com/GoodCoder666"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GoodCoder666&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="github stats" /></a> | <a href="https://github.com/GoodCoder666"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodCoder666&layout=compact&langs_count=6&exclude_repo=GoodCoder666.github.io&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
