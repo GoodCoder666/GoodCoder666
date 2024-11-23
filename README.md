@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm Stanley, a competitive programmer and Python hobbyist.
 
+![](https://komarev.com/ghpvc/?username=GoodCoder666&color=orange)
+
 | <a href="https://github.com/GoodCoder666"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GoodCoder666&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="github stats" /></a> | <a href="https://github.com/GoodCoder666"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodCoder666&layout=compact&langs_count=6&exclude_repo=GoodCoder666.github.io&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
