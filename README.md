@@ -46,5 +46,5 @@ Favourite Python libraries:
 
 My personal blog, available on GitHub Pages, cnblogs and CSDN (deprecated):
 - https://goodcoder666.github.io/
-- https://www.cnblogs.com/stanleys
-- https://blog.csdn.net/write_1m_lines?type=blog
+- https://www.cnblogs.com/stanleys (Chinese only)
+- https://blog.csdn.net/write_1m_lines?type=blog (Chinese only)
