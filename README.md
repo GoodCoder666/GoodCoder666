@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Stanley, a competitive programmer and Python hobbyist.
+I'm Stanley, a student programmer and Python hobbyist.
 
 ![](https://komarev.com/ghpvc/?username=GoodCoder666&color=orange)
 
